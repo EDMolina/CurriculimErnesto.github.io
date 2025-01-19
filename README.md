@@ -1,2 +1,1 @@
-# CurriculimErnesto.github.io
-Curriculum Ernesto Demóstenes Molina Alcolado
+# Curriculum Ernesto Demóstenes Molina Alcolado
